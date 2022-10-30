@@ -34,4 +34,4 @@ This microservice has one endpoint: `/api`. This endpoint accepts POST requests 
 Responses are identical to the ones returned by Board Game Atlas. The only difference is that fields are filtered based on what you entered into `fields`. 
 
 ### Sequence Diagram
-![Sequence diagram describing the above request/response structure](361-board-game-microservice/blob/main/sequence-diagram.jpg?raw=true)
+![Sequence diagram describing the above request/response structure](sequence-diagram.jpg?raw=true)
